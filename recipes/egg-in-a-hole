@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Egg in a hole</title>
+</head>
+<body>
+    <h1>Egg in a hole</h1>
+    <img src="/home/swordlaw/repos/odin-recipes/recipes/images-and-links/egg-in-a-hole.jpg" alt="Egg in a hole" width="300" height="300">
+    <h2>Egg in a hole</h2>
+    <h3>Ingredients</h3>
+    <ul>
+        <li>1 large egg</li>
+        <li>1/2 cup milk</li>
+        <li>1/4 cup brown sugar</li>
+        <li>1/4 cup granulated sugar</li>
+        <li>1/4 tsp salt</li>
+        <li>1/4 tsp vanilla extract</li>
+        <li>1/4 tsp baking soda</li>
+        <li>1/4 tsp baking powder</li>
+        <li>1/4 tsp espresso powder</li>
+    </ul>
+    <h3>Steps</h3>
+    <ol>
+        <li>Whisk egg, milk, brown sugar, granulated sugar, salt, vanilla, baking soda, baking powder, espresso powder, and vanilla extract together in a large bowl until smooth. Set aside.</li>
+    
+</body>
+</html>
